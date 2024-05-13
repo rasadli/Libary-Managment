@@ -42,7 +42,6 @@ The software is developed in Java using Swing for the graphical user interface (
 
 - src: Contains the main Java classes for the application.
 - data: Contains data files for books and user data.
-- media: Contains image files for GUI elements.
 
 The development process involved:
 
