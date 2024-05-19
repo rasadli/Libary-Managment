@@ -24,8 +24,8 @@ To run the application, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Open the project in IntelliJ IDEA or your preferred Java IDE.
-3. Start by running the SignupWindow class to create a new user account.
-4. After signing up, you can log in using the LoginWindow class.
+3. Start by running the SignUpPage class to create a new user account.
+4. After signing up, you can log in using the LoginPage class.
 5. If you are an administrator, use the following credentials to access admin privileges:
     - *Username*: admin
     - *Password*: admin
