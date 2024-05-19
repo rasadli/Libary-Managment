@@ -53,6 +53,4 @@ The development process involved:
 6. Daily group discussions were held to review progress, discuss challenges, and plan tasks.
 7. Group members collaborated on coding tasks, shared updates, and made commits to GitHub regularly.
 
-## Presentation
 
-- Watch the presentation of this application on YouTube: [Presentation Video](https://youtu.be/xNkQE4t7HN8)
